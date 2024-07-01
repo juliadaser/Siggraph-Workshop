@@ -10,6 +10,7 @@ by Julia Daser and Pepi Ng
 ## About 
 Welcome to your hands-on workshop at Siggraph 2024! Today, you would be making your very own pair of DIY Love Messengers! 
 <br>
+<br>
 Our DIY Love Messengers are the perfect gift for your friends/ partners, especially long-distance ones! When the button of one love messenger is pressed, both of them will light up - no matter HOW FAR AWAY the two messengers are! We will be using all the files, code and 3D models from this repository in the SIGGRAPH workshop.
 <br>
 <br>

@@ -26,5 +26,7 @@ We also made a [tutorial](https://www.youtube.com/watch?v=Ot5ihNqtx74&feature=yo
 
 ## Contact us
 We hope you guys had tons of fun building these DIY Love Messengers as much as we did! 💙🧡
+<br>
 Follow us on [our YouTube channel](https://www.youtube.com/@WormiCollective)
+<br>
 If you have any questions/ feedback, you can also reach us at yiqing.ng@gmail.com.

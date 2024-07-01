@@ -15,3 +15,6 @@ Our DIY Love Messengers are the perfect gift for your friends/ partners, especia
 <br>
 <br>
 <img src="Media/gif.gif" alt="demo" width="600"/>
+
+## Materials needed for TWO Love Messengers
+

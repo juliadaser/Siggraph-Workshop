@@ -1,4 +1,4 @@
-# Siggraph-Workshop
+# Siggraph Experience Lab: Build Your Own IoT Love Messengers!
 by Julia Daser and Pepi Ng
 <br>
 <br>

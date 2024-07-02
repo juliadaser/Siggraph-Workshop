@@ -31,7 +31,7 @@ Our DIY Love Messengers are the perfect gift for your friends/ partners, especia
 10. [2x ESP32-Laptop MicroUSB-USB data transfer wires](https://www.amazon.com/AGIPAXX-Micro-Cable-Cables-Black/dp/B0CZCWD7Q9/ref=sr_1_1_sspa?crid=4LKZUKLQ2U2V&dib=eyJ2IjoiMSJ9.FDY-NaONLUNfYkZ3mhfVZSVwS1xtCw7A9m6LkJJfwdZSku__WoGHVIY5jGTLj0olQF3zz8pWdXopY7JgoPIOTPSiJ5greTiSA26P2D4rirbUnyPe_7YhzVbQ9DnL9eEjZhhZG9M1DgZdiJbb1jbSmrxJk2dYb9PUEmLGkFz5v_na6OrH7M86gx4ADAruGv2qoAjv6aUzn8SshyiFn-aMc-CsDPLU5gmwsZkw-oewL6o.8i84aPyJCKWWLAHO9q27_rEqWPgz6Cj69HsMhTRpu2Y&dib_tag=se&keywords=Micro+USB+Cable%2C+5+Pack&qid=1716141264&sprefix=micro+usb+cable%2C+5+pack%2Caps%2C98&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)($12.31 for a pack of 5) 
 11. [USBC-USB adapters for Mac users](https://www.amazon.com/Henrety-Adapter-Female-Compatible-MacBook/dp/B0B4S2SKNH/ref=sr_1_3?crid=YCRPTJ7EM00Y&dib=eyJ2IjoiMSJ9.dlxBMmv9mixYqbIbRoCiUutuZGg-05a9clikk9FgGx4eKr6hHk6vOFiPfU3P1ksA-QWp2kF9AWT4ln2FknWtZlPqZGDzz2onlC94TkqnDd-jtviadynjrOUM_z1YYdhI8rO1WY5dbki-J60sVPrdixUuzzUqhN2jQm4UkzHevNfz-Y4ULskbFyi3y3l3Endu7_jcIj-9ZF7HYXWEA_g_FbcWAk5GV1fGPiOUIF0ZJMg.ayPl01xZvZTjLsYFwFhpyVyUUzT8t5nNFOMUG1r13MI&dib_tag=se&keywords=usb%2Bc%2Bto%2Busb&qid=1715897360&sprefix=usbc%2Bto%2Busb%2Caps%2C100&sr=8-3&th=1)($5.59 for a pack of 3)
 
-   
+<br>   
 <br>
 
 ## Tools/ Equipment provided: 
@@ -47,14 +47,19 @@ Our DIY Love Messengers are the perfect gift for your friends/ partners, especia
 ## Wire diagram
 <img src="Media/wireDiagram.png" alt="wire diagram" width="600"/>
 
+<br>
+<br>
+
 ## Try it out yourself at home!
 We also made a [tutorial](https://www.youtube.com/watch?v=Ot5ihNqtx74&feature=youtu.be&ab_channel=WormiCollective) so that you can make these Love Messengers again at home. 
 <br><br> Do note that the materials used for this tutorial is very slightly different from the one we used in the workshop (ie. we randomized the LED colors in the tutorial, but stuck to only one LED color in the SIGGRAPH workshop). You can choose to modify the materials used in the tutorial with the materials outlined in this github repository.
-
+<br>
+<br>
 
 ## Contact us
 We hope you guys had tons of fun building these DIY Love Messengers as much as we did! 💙🧡
 <br>
 Follow us on [our YouTube channel](https://www.youtube.com/@WormiCollective)
+<br>
 <br>
 If you have any questions/ feedback, you can also reach us at yiqing.ng@gmail.com.

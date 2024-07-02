@@ -42,6 +42,10 @@ Our DIY Love Messengers are the perfect gift for your friends/ partners, especia
 5. Heat Gun / Rework station
 
 <br>
+<br>
+
+## Wire diagram
+<img src="Media/wireDiagram.png" alt="wire diagram" width="600"/>
 
 ## Try it out yourself at home!
 We also made a [tutorial](https://www.youtube.com/watch?v=Ot5ihNqtx74&feature=youtu.be&ab_channel=WormiCollective) so that you can make these Love Messengers again at home. 

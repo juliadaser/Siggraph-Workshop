@@ -41,7 +41,7 @@ Our DIY Love Messengers are the perfect gift for your friends/ partners, especia
 <br>
 
 ## Wire diagram
-<img src="Media/wireDiagram2.png" alt="wire diagram" width="600"/>
+<img src="Media/wireDiagram2.png" alt="wire diagram" width="500"/>
 
 <br>
 <br>

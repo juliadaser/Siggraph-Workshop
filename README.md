@@ -24,9 +24,8 @@ Our DIY Love Messengers are the perfect gift for your friends/ partners, especia
 3. 2x 3D-printed box floors (see '3D models' folder)
 4. 2x [16mm pre-soldered illuminated push buttons](https://www.aliexpress.us/item/2251832614629523.html?spm=a2g0o.productlist.main.11.5072117655K7gB&algo_pvid=225969aa-799d-4e9d-af17-dd443563b8c6&algo_exp_id=225969aa-799d-4e9d-af17-dd443563b8c6-5&pdp_npi=4%40dis%21USD%210.62%210.62%21%21%210.62%210.62%21%40210307c317161401282835369e4f5f%2165823672908%21sea%21US%210%21AB&curPageLogUid=AgGRJrNgn8u5&utparam-url=scene%3Asearch%7Cquery_from%3A) ($0.62 per)
 5. 2x [pre-soldered Super bright LEDs](https://www.amazon.com/dp/B01AUI4VQU/ref=sspa_dk_detail_4?pd_rd_i=B01AUI4VQU&pd_rd_w=YnDHQ&content-id=amzn1.sym.248b5e31-60e8-4934-96cf-b3789198461a&pf_rd_p=248b5e31-60e8-4934-96cf-b3789198461a&pf_rd_r=0NJCFTT68WD09JGSG2HB&pd_rd_wg=p8EFN&pd_rd_r=797c86d4-d6a1-4a3a-b51a-dba9e538c45a&s=hi&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1) (Pre-soldered with resistors) ($5.99 for 100)
-6. 2x [Micro-USB wires used to power and to transmit data](https://www.bestbuy.com/site/best-buy-essentials-3-usb-a-to-micro-usb-charge-and-sync-cable-black/6456436.p?skuId=6456436&utm_source=feed&ref=212&loc=20161460807&gad_source=1&gclid=CjwKCAiAzJOtBhALEiwAtwj8thVSNr45dY5C1Sd8EiPBhqMn8sO--0ueCs4qPVapoc-a6hkdDCGhWRoCYbwQAvD_BwE&gclsrc=aw.ds) ($4.99 per)
-7. 4x [M2.5 x 10 mm Screws](https://www.amazon.com/uxcell-100pcs-Stainless-Phillips-Tapping/dp/B01KXTUCM8/ref=sr_1_1_sspa?crid=1A0H7ME44I8XG&dib=eyJ2IjoiMSJ9.1EDcmIzZvaAscU3Q-1ZO17pntsZAfotkye6Xwgxa5MQWk30NrBFC_MF6IROeWOjLtfmwox328E3DkG8CdnVfezLs6Xb8RNRxMYqVslyaOu7hm3xB4WrDxBira7h0NvUAXxpph7wWM13UlfpV83F09FYsV4QALO0P2KET0VfsBjRP6IfLUAXQQszT4pUiwVfxoMEFR5iH1uEIA9eKS5eNCjoAmmfHzkeT9CZx5lyap4k.YbI_gbR8JlB_4itWpd1EIFg7ybsKn-BVILFg5GIqTQk&dib_tag=se&keywords=m2%2Bx%2B8mm%2Bscrews&qid=1716141059&sprefix=M2%2Bx%2B8mm%2B%2Caps%2C109&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
-8. 2x [ESP32-WROOM-32 microcontrollers](https://www.getfpv.com/esp32-development-board-w-wifi-bluetooth.html?utm_source=google&utm_medium=cpc&utm_campaign=DM+-+NB+-+PMax+-+Shop+-+No-index+-+SM+-+ALL+%7C+Full+Funnel&utm_content=pmax_x&utm_keyword=&utm_matchtype=&campaign_id=20799936859&network=x&device=c&gc_id=20799936859&gad_source=1&gclid=CjwKCAiAzJOtBhALEiwAtwj8ttuekYgUBbMJGP-JRPyLEPyVTKI_yBnxqm1hygJcPFpiuKzBD8us1hoCmlAQAvD_BwE) ($6.99 per)
+6. 4x [M2.5 x 10 mm Screws](https://www.amazon.com/uxcell-100pcs-Stainless-Phillips-Tapping/dp/B01KXTUCM8/ref=sr_1_1_sspa?crid=1A0H7ME44I8XG&dib=eyJ2IjoiMSJ9.1EDcmIzZvaAscU3Q-1ZO17pntsZAfotkye6Xwgxa5MQWk30NrBFC_MF6IROeWOjLtfmwox328E3DkG8CdnVfezLs6Xb8RNRxMYqVslyaOu7hm3xB4WrDxBira7h0NvUAXxpph7wWM13UlfpV83F09FYsV4QALO0P2KET0VfsBjRP6IfLUAXQQszT4pUiwVfxoMEFR5iH1uEIA9eKS5eNCjoAmmfHzkeT9CZx5lyap4k.YbI_gbR8JlB_4itWpd1EIFg7ybsKn-BVILFg5GIqTQk&dib_tag=se&keywords=m2%2Bx%2B8mm%2Bscrews&qid=1716141059&sprefix=M2%2Bx%2B8mm%2B%2Caps%2C109&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+7. 2x [ESP32-WROOM-32 microcontrollers](https://www.getfpv.com/esp32-development-board-w-wifi-bluetooth.html?utm_source=google&utm_medium=cpc&utm_campaign=DM+-+NB+-+PMax+-+Shop+-+No-index+-+SM+-+ALL+%7C+Full+Funnel&utm_content=pmax_x&utm_keyword=&utm_matchtype=&campaign_id=20799936859&network=x&device=c&gc_id=20799936859&gad_source=1&gclid=CjwKCAiAzJOtBhALEiwAtwj8ttuekYgUBbMJGP-JRPyLEPyVTKI_yBnxqm1hygJcPFpiuKzBD8us1hoCmlAQAvD_BwE) ($6.99 per)
 
 <br>   
 <br>
@@ -36,6 +35,7 @@ Our DIY Love Messengers are the perfect gift for your friends/ partners, especia
 2. Wire Stripper
 3. Small Screwdrivers
 4. Soldering Kit
+5. USB-MicroUSB wires
 
 <br>
 <br>

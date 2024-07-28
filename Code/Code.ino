@@ -10,7 +10,7 @@
 #define WIFI_SSID "Lab181"
 #define WIFI_PASSWORD "lovemessengers"
 
-// // Firebase credentials
+// Firebase credentials
 #define API_KEY "insert API Key here"
 #define DATABASE_URL "insert Database URL here"
 

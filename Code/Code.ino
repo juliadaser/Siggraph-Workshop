@@ -97,7 +97,7 @@ void downloadData() {
 }
 
 void manageLED(int buttonState, int firebaseData) {
-  if (buttonState == HIGH or firebaseData == HIGH) {
+  if (buttonState == LOW or firebaseData == LOW) {
     digitalWrite(ledPin, HIGH);
     delay(2000);
     digitalWrite(ledPin, LOW);

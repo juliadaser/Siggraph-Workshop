@@ -20,6 +20,13 @@ Follow us on [our YouTube channel](https://www.youtube.com/@WormiCollective)
 <br>
 
 
+## This Github Page Contains
+- 3D models of the box encasing, the floor, and the hearts for 3D-printing
+- The Code for the ESP32 Microcontrollers
+- The Class-Slides
+- The Slides on how to Create a Database
+- coming soon... the Slides on how to Upload the ESP32 Code
+
 
 ## About 
 Welcome to your hands-on workshop at Siggraph 2024! Today, you are making your very own pair of DIY Love Messengers! 

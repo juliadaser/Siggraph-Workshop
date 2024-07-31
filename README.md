@@ -22,6 +22,7 @@ Follow our PDF-instructions if you need a reminder on how to do so: [PDF Instruc
 <br>
 <br>
 You can keep using the same Database we created in the workshop. (If you want to create a new Database, or you have not created one yet, follow [this tutorial](https://github.com/juliadaser/Siggraph-Workshop/blob/main/Slides/CreateDatabase.pdf))
+
 <br>
 
 ## Contact us
@@ -31,6 +32,7 @@ If you run into any issues, please reach out to us!! We would love to help
 #### Email:  yiqing.ng@gmail.com
 #### Instagram: [@julia.daser](https://www.instagram.com/julia.daser/)
 #### Youtube: [@WormiCollective](https://www.youtube.com/@WormiCollective)
+
 <br>
 
 ## About 

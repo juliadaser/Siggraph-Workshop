@@ -9,8 +9,13 @@ by Julia Daser and Pepi Ng
 
 
 ## Contact us
-We hope you guys had tons of fun building these DIY Love Messengers as much as we did! 💙🧡 
+We hope you guys had tons of fun building these DIY Love Messengers as much as we did! 💙🧡  <br>
 If you run into any issues, please reach out to us!! We would love to help
+<br>
+<br>
+Email:  yiqing.ng@gmail.com
+Instagram: @julia.daser
+
 <br>
 Follow us on [our YouTube channel](https://www.youtube.com/@WormiCollective)
 <br>

@@ -13,9 +13,10 @@ We hope you guys had tons of fun building these DIY Love Messengers as much as w
 If you run into any issues, please reach out to us!! We would love to help
 <br>
 <br>
-### Email:  yiqing.ng@gmail.com
+#### Email:  yiqing.ng@gmail.com
 <br>
-### Instagram: [@julia.daser](https://www.instagram.com/julia.daser/)
+
+#### Instagram: [@julia.daser](https://www.instagram.com/julia.daser/)
 
 <br>
 Follow us on [our YouTube channel](https://www.youtube.com/@WormiCollective)

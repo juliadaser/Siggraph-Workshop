@@ -21,11 +21,11 @@ Follow us on [our YouTube channel](https://www.youtube.com/@WormiCollective)
 
 
 ## This Github Page Contains
-- 3D models of the box encasing, the floor, and the hearts for 3D-printing
-- The Code for the ESP32 Microcontrollers
-- The Class-Slides
-- The Slides on how to Create a Database
-- coming soon... the Slides on how to Upload the ESP32 Code
+- **3D models** of the box encasing, the floor, and the hearts for 3D-printing
+- The **Code** for the ESP32 Microcontrollers
+- The **Class-Slides**
+- The Slides on **How to Create a Database**
+- coming soon... the Slides on **How to Upload the ESP32 Code**
 
 
 ## About 

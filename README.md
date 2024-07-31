@@ -25,6 +25,7 @@ If you run into any issues, please reach out to us!! We would love to help
 5. The Slides on [**How to Upload the ESP32 Code**](LINK here)
 
 <br>
+
 ## You attended our Siggraph workshop and want to use the Love Messengers at home?
 To use the *Love Messengers* at home, you need to re-upload the code with your own WiFi name and Password. 
 You can keep using the same Database we created in the workshop. (If you want to create a new Database, or you have not created one yet, follow [this tutorial](https://github.com/juliadaser/Siggraph-Workshop/blob/main/Slides/CreateDatabase.pdf)

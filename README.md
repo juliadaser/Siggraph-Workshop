@@ -7,16 +7,6 @@ by Julia Daser and Pepi Ng
 **Workshop 2:** Wednesday, 31 July 2024, 11:15AM - 1:15PM
 <br>
 
-
-## Contact us
-We hope you guys had tons of fun building these DIY Love Messengers as much as we did! 💙🧡  <br>
-If you run into any issues, please reach out to us!! We would love to help
-<br>
-#### Email:  yiqing.ng@gmail.com
-#### Instagram: [@julia.daser](https://www.instagram.com/julia.daser/)
-#### Youtube: [@WormiCollective](https://www.youtube.com/@WormiCollective)
-<br>
-
 ## This Github Page Contains
 1. [**3D models**](https://github.com/juliadaser/Siggraph-Workshop/tree/main/3DModels) of the box encasing, the floor, and the hearts for 3D-printing
 2. The [**Code**](https://github.com/juliadaser/Siggraph-Workshop/tree/main/Code) for the ESP32 Microcontrollers
@@ -30,9 +20,18 @@ If you run into any issues, please reach out to us!! We would love to help
 To use the *Love Messengers* at home, you need to re-upload the code with your own WiFi name and Password. 
 Follow our PDF-instructions if you need a reminder on how to do so: [PDF Instructions]()
 <br>
-You can keep using the same Database we created in the workshop. (If you want to create a new Database, or you have not created one yet, follow [this tutorial](https://github.com/juliadaser/Siggraph-Workshop/blob/main/Slides/CreateDatabase.pdf)
+<br>
+You can keep using the same Database we created in the workshop. (If you want to create a new Database, or you have not created one yet, follow [this tutorial](https://github.com/juliadaser/Siggraph-Workshop/blob/main/Slides/CreateDatabase.pdf))
 <br>
 
+## Contact us
+We hope you guys had tons of fun building  DIY Love Messengers 💙🧡  <br>
+If you run into any issues, please reach out to us!! We would love to help
+<br>
+#### Email:  yiqing.ng@gmail.com
+#### Instagram: [@julia.daser](https://www.instagram.com/julia.daser/)
+#### Youtube: [@WormiCollective](https://www.youtube.com/@WormiCollective)
+<br>
 
 ## About 
 Our DIY Love Messengers are the perfect gift for your friends/ partners, especially long-distance ones! When the button of one love messenger is pressed, both of them will light up - no matter HOW FAR AWAY the two messengers are! We will be using all the files, code and 3D models from this repository in the SIGGRAPH workshop.

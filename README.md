@@ -7,6 +7,18 @@ by Julia Daser and Pepi Ng
 **Workshop 2:** Wednesday, 31 July 2024, 11:15AM - 1:15PM
 <br>
 
+
+## Contact us
+We hope you guys had tons of fun building these DIY Love Messengers as much as we did! 💙🧡 If you run into any issues, please reach out to us!! We would love to help
+<br>
+Follow us on [our YouTube channel](https://www.youtube.com/@WormiCollective)
+<br>
+<br>
+If you have any questions/ feedback, you can also reach us at yiqing.ng@gmail.com.
+
+
+
+
 ## About 
 Welcome to your hands-on workshop at Siggraph 2024! Today, you are making your very own pair of DIY Love Messengers! 
 <br>
@@ -51,11 +63,3 @@ We also made a [tutorial](https://www.youtube.com/watch?v=Ot5ihNqtx74&feature=yo
 <br><br> Do note that the materials used for this tutorial is very slightly different from the one we used in the workshop (ie. we randomized the LED colors in the tutorial, but stuck to only one LED color in the SIGGRAPH workshop). You can choose to modify the materials used in the tutorial with the materials outlined in this github repository.
 <br>
 <br>
-
-## Contact us
-We hope you guys had tons of fun building these DIY Love Messengers as much as we did! 💙🧡
-<br>
-Follow us on [our YouTube channel](https://www.youtube.com/@WormiCollective)
-<br>
-<br>
-If you have any questions/ feedback, you can also reach us at yiqing.ng@gmail.com.

@@ -28,9 +28,10 @@ If you run into any issues, please reach out to us!! We would love to help
 
 ## You attended our Siggraph workshop and want to use the Love Messengers at home?
 To use the *Love Messengers* at home, you need to re-upload the code with your own WiFi name and Password. 
+Follow our PDF-instructions if you need a reminder on how to do so: [PDF Instructions]()
+<br>
 You can keep using the same Database we created in the workshop. (If you want to create a new Database, or you have not created one yet, follow [this tutorial](https://github.com/juliadaser/Siggraph-Workshop/blob/main/Slides/CreateDatabase.pdf)
 <br>
-Follow our PDF-instructions if you need a reminder on how to do so: [PDF Instructions]()
 
 
 ## About 

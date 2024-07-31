@@ -15,8 +15,7 @@ If you run into any issues, please reach out to us!! We would love to help
 #### Email:  yiqing.ng@gmail.com
 #### Instagram: [@julia.daser](https://www.instagram.com/julia.daser/)
 
-<br>
-<br>
+
 Follow us on [our YouTube channel](https://www.youtube.com/@WormiCollective)
 <br>
 

@@ -12,13 +12,13 @@ by Julia Daser and Pepi Ng
 2. The [**Code**](https://github.com/juliadaser/Siggraph-Workshop/tree/main/Code) for the ESP32 Microcontrollers
 3. The [**Class-Slides**](https://github.com/juliadaser/Siggraph-Workshop/blob/main/Slides/workshop_slides.pdf)
 4. The Slides on [**How to Create a Database**](https://github.com/juliadaser/Siggraph-Workshop/blob/main/Slides/CreateDatabase.pdf)
-5. The Slides on [**How to Upload the ESP32 Code**](LINK here)
+5. The Slides on [**How to Upload the ESP32 Code**](https://github.com/juliadaser/Siggraph-Workshop/blob/main/Slides/UploadCode_slides.pdf)
 
 <br>
 
 ## You attended our Siggraph workshop and want to use the Love Messengers at home?
 To use the *Love Messengers* at home, you need to re-upload the code with your own WiFi name and Password. 
-Follow our PDF-instructions if you need a reminder on how to do so: [PDF Instructions]()
+Follow our PDF-instructions if you need a reminder on how to do so: [PDF Instructions](https://github.com/juliadaser/Siggraph-Workshop/blob/main/Slides/UploadCode_slides.pdf)
 <br>
 <br>
 You can keep using the same Database we created in the workshop. (If you want to create a new Database, or you have not created one yet, follow [this tutorial](https://github.com/juliadaser/Siggraph-Workshop/blob/main/Slides/CreateDatabase.pdf))

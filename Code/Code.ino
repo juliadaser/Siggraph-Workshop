@@ -7,7 +7,7 @@
 #include "addons/RTDBHelper.h"   //Provide the RTDB payload printing info and other helper functions.
 
 // Wi-Fi credentials
-#define WIFI_SSID "Lab181"
+#define WIFI_SSID "BFADT-IOT"
 #define WIFI_PASSWORD "lovemessengers"
 
 // Firebase credentials

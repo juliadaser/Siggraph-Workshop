@@ -8,7 +8,7 @@
 
 // Wi-Fi credentials
 #define WIFI_SSID "BFADT-IoT"
-#define WIFI_PASSWORD "lovemessengers"
+#define WIFI_PASSWORD "bfaisthebest"
 
 // Firebase credentials
 #define API_KEY "insert API Key here"
